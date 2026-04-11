@@ -1,4 +1,4 @@
-# PlasticCoin Protocol
+# SC Protocol
 
 **Version 0.6 — Working Draft**
 
@@ -301,11 +301,11 @@ Each merchant within a mint operates one Sunmi V2S. The terminal handles:
 
 **Onboarding a new merchant:**
 
-- Install the SatsCASH webapp on the Sunmi V2S.
+- Install the SC webapp on the Sunmi V2S.
 - Attach the standard capture shoe to the terminal.
 - Configure the merchant's Blink Lightning wallet.
 - Register the merchant in the protocol ledger under the mint code.
-- Set Node URL in the webapp settings to point to the PlasticCoin Core node.
+- Set Node URL in the webapp settings to point to the SC Core node.
 - Confirm full ledger sync and test mint with a prototype coin.
 
 Each new merchant terminal extends the mint's reach into the community without requiring any changes to the protocol or the node network. Merchants are participants in a mint, not independent mints.
@@ -453,7 +453,7 @@ The protocol defines the structure. The community defines the expression.
 
 **Pending items for future versions:**
 
-- Mint code registration process — how a new mint registers its code on the shared network.
+- Mintmark registration process — how a new mint registers its mint mark as an image file on the shared network.
 - Node onboarding procedure — step-by-step for joining an existing network.
 - Denomination setting governance — the process by which communities agree values on 22 May.
 - Optical similarity threshold calibration standard — empirical values from prototype testing to be documented here.
@@ -462,7 +462,7 @@ The protocol defines the structure. The community defines the expression.
 
 ## Reference Implementation
 
-The reference implementation of this protocol is **PlasticCoin Core** — a Node.js server designed to run on Raspberry Pi 4 hardware.
+The reference implementation of this protocol is **SC Core** — a Node.js server designed to run on Raspberry Pi 4 hardware.
 
 - API server: Express.js
 - Database: SQLite with WAL mode (Litestream replication)
@@ -473,4 +473,4 @@ Repository: [github.com/plasticcoin/core](https://github.com/plasticcoin/core)
 
 ---
 
-*PlasticCoin Protocol is open. Anyone may implement it. No permission required.*
+*SC Protocol is open. Anyone may implement it. No permission required.*
