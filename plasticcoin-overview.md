@@ -1,6 +1,6 @@
 # PlasticCoin
 
-## A new coin for a new relationship with the world around us
+## A new coin for a new economy 
 
 ---
 
