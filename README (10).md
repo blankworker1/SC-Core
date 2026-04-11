@@ -1,4 +1,4 @@
-# PlasticCoin Core
+# SC Core
 
 **Open, permissionless, community-based physical currency — backed by Bitcoin, minted from reclaimed plastic.**
 
@@ -6,7 +6,7 @@
 
 ## What Is SC Core
 
-SC Core is the node server that runs the PlasticCoin Protocol. It replaces any centralised platform with a locally-owned, distributed SQLite ledger replicated across three Raspberry Pi nodes held by community keyholders.
+SC Core is the node server that runs the SC Protocol. It replaces any centralised platform with a locally-owned, distributed SQLite ledger replicated across three Raspberry Pi nodes held by community keyholders.
 
 Each physical coin is a 40mm disc moulded from reclaimed plastic with an embedded NFC chip. When a holder taps the coin on any phone the browser opens to the verification page — no app, no account, no permission required. The page shows denomination, status, and the Bitcoin transaction hash confirming the coin's backing.
 
@@ -14,7 +14,7 @@ Each physical coin is a 40mm disc moulded from reclaimed plastic with an embedde
 
 ## Protocol Version
 
-This implementation targets **PlasticCoin Protocol v0.6**
+This implementation targets **SC Protocol v0.6**
 
 Denomination standard (ascending value):
 
