@@ -1,14 +1,14 @@
-# PlasticCoin
+# SC
 
 **Open, permissionless, community-based physical currency — backed by Bitcoin, minted from reclaimed plastic.**
 
 ---
 
-## What is PlasticCoin?
+## What is SC?
 
-PlasticCoin is a protocol for issuing physical coins that carry real Bitcoin value. Each coin is moulded from reclaimed waste plastic, embedded with an NFC chip, and backed 1:1 by Bitcoin held in a community treasury.
+SC is a protocol for issuing physical coins that carry real Bitcoin value. Each coin is moulded from reclaimed waste plastic, embedded with an NFC chip, and backed 1:1 by Bitcoin held in a community treasury.
 
-When you tap a PlasticCoin with your phone, the browser opens. You see exactly what the coin is worth, whether it's genuine, and whether the Bitcoin backing it is confirmed on the blockchain. No app. No account. No trust required — only verification.
+When you tap a SC coin with your phone, the browser opens. You see exactly what the coin is worth, whether it's genuine, and whether the Bitcoin backing it is confirmed on the blockchain. No app. No account. No trust required — only verification.
 
 The protocol is designed to start in a single community, prove itself, and replicate. Each new community that adopts it runs its own nodes, holds its own treasury, mints its own coins. Nothing is shared except the standard.
 
@@ -18,9 +18,9 @@ The protocol is designed to start in a single community, prove itself, and repli
 
 Money was first stamped in gold and silver — scarce, requiring royal assent. Then printed on paper — governments only. Now the substrate is everywhere. Waste plastic has negative value. It is a pollutant, in our bodies and our food.
 
-PlasticCoin reclaims two things simultaneously: the waste plastic itself, and the right to make money. Not by asking permission. By building something honest that works.
+SC reclaims two things simultaneously: the waste plastic itself, and the right to make money. Not by asking permission. By building something honest that works.
 
-The first mint is in a small Italian town of 7,500 residents. Every year the economy gets weaker. The young people leave. The old people die. But the tourists keep coming every summer — spending euros that flow through and leave. PlasticCoin is an attempt to anchor some of that value locally, in an object that belongs to the place.
+The first mint is in a small Italian town of 7,500 residents. Every year the economy gets weaker. The young people leave. The old people die. But the tourists keep coming every summer — spending euros that flow through and leave. SC is an attempt to anchor some of that value locally, in an object that belongs to the place.
 
 It starts small. It grows slowly. It proves itself.
 
