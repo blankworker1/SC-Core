@@ -1,5 +1,5 @@
 # PlasticCoin
-## A new kind of money for a different relationship with the world
+## A new coin for a new economy 
 
 ---
 
