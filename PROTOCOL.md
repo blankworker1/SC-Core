@@ -1,4 +1,4 @@
-# SC Protocol
+# PlasticCoin Protocol
 
 **Version 0.6 — Working Draft**
 
