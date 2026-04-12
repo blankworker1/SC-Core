@@ -120,12 +120,13 @@ Diameter: 40mm
 
 Material: recycled plastic composite
 
-Unique colour and texture per batch
+Unique colour and texture
 
-Embedded denomination marker (colour-coded)
+Embedded denomination marker 
 
+Colour-coded inset NFC tag 
 
-Each coin is visually and materially unique due to input variability.
+Each coin is visually and materially unique due to raw material input variability.
 
 5.2 Digital Interface
 
