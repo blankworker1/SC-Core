@@ -1,14 +1,14 @@
 
 # PlasticCoin
 
-A Local Currency Protocol for Transforming Waste into Value
+A Protocol for Transforming Waste into Value
 
 
 ---
 
 Abstract
 
-PlasticCoin is a physical-digital currency system that converts locally collected plastic waste and solar energy into tokenised value backed by a publicly auditable Bitcoin reserve. Each coin is a unique, injection-moulded object embedded with a secure chip and linked to a verifiable ledger entry. The system combines material provenance, energy transparency, and cryptographic accounting to create a complementary local currency designed for community-scale economies.
+PlasticCoin is a physical-digital totem minting system that converts locally collected plastic waste and solar energy into tokenised value backed by a publicly auditable Bitcoin reserve. Each totem coin is a unique, injection-moulded object embedded with a secure chip and linked to a verifiable ledger entry. The system combines material provenance, energy transparency, and cryptographic accounting to create a product designed for community-scale economies.
 
 PlasticCoin does not aim to replace national currencies. It introduces a parallel system optimised for local circulation, transparency, and environmental alignment.
 
@@ -67,7 +67,7 @@ Recycled plastic waste (e.g. bottle caps, containers)
 
 Solar energy captured on-site
 
-Organic filler (e.g. ground olive stones, seasonally sourced)
+Organic filler (e.g. ground olive stones, locally sourced)
 
 
 Typical material composition per coin:
@@ -96,6 +96,7 @@ Typical material composition per coin:
 
 
 Estimated energy per coin:
+
 ~0.05–0.1 kWh (depending on batch size and equipment efficiency)
 
 4.3 Environmental Position
