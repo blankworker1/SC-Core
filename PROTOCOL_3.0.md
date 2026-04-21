@@ -45,13 +45,13 @@ A SatsCASH coin is a two-part object: a plastic body and an NFC tag. Together th
 
 **Body**
 - Outer diameter: 43mm (determined by O-ring specification)
-- Plastic core: 34.8mm diameter, ~6mm thick
-- Material: injection-moulded recycled plastic (Smile Materials Blue Denim or equivalent)
-- Retention: 35mm internal diameter silicone O-ring, 4mm cross-section
+- Plastic core: 34.8mm diameter, ~4mm thick
+- Material: injection-moulded recycled plastic ( mixed colour feedstock)
+- Rim: 35mm internal diameter stainless steel O-ring, 4mm cross-section
 - The O-ring holds the plastic core securely and is the visible outer ring of the coin
 
 **NFC Tag**
-- Type: NTAG213 or NTAG215 (ISO 14443 Type A, NDEF capable)
+- Type: NTAG213 (ISO 14443 Type A, NDEF capable)
 - Form factor: 14mm diameter × 2.5mm thick injection-mouldable tag
 - Position: rear face of coin, centred, recessed 2.5mm deep
 - Written data: single NDEF URI pointing to `{node_origin}/coin/{uid}`
